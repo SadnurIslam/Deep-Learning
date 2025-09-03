@@ -82,6 +82,3 @@ def plot_original_vs_predicted(model):
 
 if __name__ == "__main__":
     main()
-\end{lstlisting}
-
-\end{document}
